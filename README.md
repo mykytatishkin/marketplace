@@ -1,25 +1,21 @@
 # Marketplace
-This site was made for 1 project in GTA(https://discord.gg/vd4pWgdQT6) like comercial order.
+This site was made for me and my friends to show our items to sell, etc.
 <h1><b>Site Version</b> - 0.0.1</h1>
 
-<h2>GitHub pages (work uncorrectly)</h2>
-https://gteasera.github.io/mason-rp-site/
-
+<h2>GitHub pages</h2>
 
 <p><i> In this version we have a hull of site and a bit of main functionality</i></p>
- 
-  <li> Version date: 26/06/2022 </li>
-  <li> Next huge update will before server relise</li>
+  <li> Version date: 1/07/2022 </li>
   
 <h2><b> Bug fix: </b></h2>
   <li style="text-align: left; opacity: 0.3;"> Nothing </li>
 <h2><b> Added: </b></h2>
-  <li style="text-align: left; opacity: 1;"> Downloading client (beta without real file)</li>
+  <li style="text-align: left; opacity: 0.3;"> Nothing </li>
 <h2><b> Removed: </b></h2>
-   <li style="opacity: 0.3"> Nothing </li>
+  <li style="text-align: left; opacity: 0.3;"> Nothing </li>
 <h2><b> Plans: </b></h2>
-  <li><s> Add payment</s></li>
-  <li><s> Add all elements for intalling client</s></li>
+  <li> Add payment</li>
+  <li> Add items to sell</li>
   <li> Bug fixing</li>
 
   
