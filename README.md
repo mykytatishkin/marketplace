@@ -24,13 +24,13 @@ https://gteasera.github.io/mason-rp-site/
 
   
 <h2><b> Versions of fuctionality: </b></h2>
-<br><b>Dark-Mode</b> - 1.1.0 <br>
-<b>Light-Mode</b> - 1.1.0 <br>
-<s><b>Registration</b> - 0.0.3</s> <br>
-<b>Help</b> - 0.0.1 <br>
-<b>Forum</b> - 0.0.4 <br>
-<b>Clock</b> - 0.0.1 <br>
-<b>Why We</b> - 0.0.2 <br>
-<b>Tech Help</b> - 0.0.2 <br>
-<b>Payment</b> - 0.0.2 <br>
-<b>Downloading</b> - 0.0.2 <br>
+<br><b>Dark-Mode</b> - 0.0.1 <br>
+<b>Light-Mode</b> - 0.0.0 <br>
+<s><b>Registration</b> - 0.0.0</s> <br>
+<b>Help</b> - 0.0.0 <br>
+<b>Forum</b> - 0.0.0 <br>
+<b>Clock</b> - 0.0.0 <br>
+<b>Why We</b> - 0.0.0 <br>
+<b>Tech Help</b> - 0.0.0 <br>
+<b>Payment</b> - 0.0.0 <br>
+<b>Downloading</b> - 0.0.0 <br>
