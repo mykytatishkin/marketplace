@@ -1,4 +1,6 @@
 # Marketplace
+
+<img src="https://user-images.githubusercontent.com/87891550/176793226-4f6d74ae-4ec0-43a5-bdb3-b51202025845.png">
 This site was made for me and my friends to show our items to sell, etc.
 <h1><b>Site Version</b> - 0.0.1</h1>
 
