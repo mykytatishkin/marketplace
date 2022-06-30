@@ -1,0 +1,156 @@
+*{
+    transition: all .5s ease-in-out;
+}
+body {
+    position: relative;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+    color: #000;
+    min-width: 320px;
+    overflow-x: hidden;
+    height: auto;
+    background: white;
+}
+.navbar{
+    width: 100%;
+    height: 70px;
+    box-shadow: 0 4px 10px rgba(0,0,0, .1);
+    border-radius: 24px;
+}
+
+.navbar .container{
+    background-color:aliceblue;
+    height: inherit;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 24px;
+}
+
+.navbar-menu{
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.navbar-menu li{
+    display: inline-block;
+}
+
+.navbar-menu li a{
+    display: inline-block;
+    color: #000;
+    opacity: 0.6;
+    text-decoration: none;
+    padding: 17px;
+    transition: all .7s ease-in-out;
+}
+
+.navbar-menu li a:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    opacity: 1;
+    text-decoration:overline;
+}
+
+.navbar-wrap{
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+.buttonTheme{
+    margin-right: 3px;
+    text-decoration: none;
+    color:black;
+    padding: 10px;
+    border-radius: 100px;
+    border: 10;
+    background: aliceblue;
+    border-color: black;    
+    outline: 0;
+    font-size: 16px;
+    transition: all .7s ease-in-out;
+}
+.buttonTheme:hover{
+    opacity: 0.6;
+}
+
+.callback{
+    margin-right: 12px;
+    border-radius: 100px;
+    background-color: cornflowerblue;
+    padding: 10px;
+    text-decoration: none;
+    color:black;
+    transition: all .7s ease-in-out;
+}
+.callback:hover{
+    text-decoration:overline;
+    color:black;
+    background-color: gold;
+}
+
+.navbar-brand{
+    margin-left: 10px;
+    font-weight: 700;
+    font-size: 26px;
+    text-decoration: none;
+    color:black;
+    transition: all .7s ease-in-out;
+}
+.navbar-brand:hover{
+    color:cornflowerblue;
+    transform: scale(1.1);
+}
+
+
+/* Other css */
+
+.containerBox{
+    margin-left: 20px;
+    margin-top: 24px;
+}
+.regLabel{
+    margin-top: 30%;
+    margin-left: 32%;
+}
+.emailInput{
+    margin-left: 32%;
+    width: 500px;
+    height: 50px;
+    font-size: 24px;
+    border-radius: 24px;
+    opacity: 0.6;
+    transition: all .7s ease-in-out;
+}
+.emailInput:hover{
+    opacity: 1;
+    transform: scale(1.1);
+}
+.custom-a{
+    color:rgb(0, 0, 0);
+    transition: all .7s ease-in-out;
+}
+.custom-a:hover{
+color:rgb(228, 194, 0);
+}
+
+.confirm-button{
+    background-color: black;
+    color: white;
+    opacity: 0.6;
+    padding: 10px;
+    border-radius: 100px;
+    font-size: 24px;
+    margin-left: 40%;
+    margin-top: 3%;
+    border-color: rgba(0,0,0, .1);
+    transition: all .7s ease-in-out;
+}
+.confirm-button:hover{
+    background-color: greenyellow;
+    color: #000;
+    opacity: 1;
+    transform: scale(1.1);
+}
