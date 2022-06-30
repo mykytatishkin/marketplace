@@ -3,6 +3,7 @@ This site was made for me and my friends to show our items to sell, etc.
 <h1><b>Site Version</b> - 0.0.1</h1>
 
 <h2>GitHub pages</h2>
+https://gteasera.github.io/marketplace/
 
 <p><i> In this version we have a hull of site and a bit of main functionality</i></p>
   <li> Version date: 1/07/2022 </li>
@@ -30,3 +31,5 @@ This site was made for me and my friends to show our items to sell, etc.
 <b>Tech Help</b> - 0.0.0 <br>
 <b>Payment</b> - 0.0.0 <br>
 <b>Downloading</b> - 0.0.0 <br>
+
+<img src="https://img.freepik.com/free-vector/mountains-cleft-view-from-bottom-night-scenery-landscape-with-high-rocks-full-moon-with-stars-glowing-peaks_107791-5585.jpg?w=1800&t=st=1656630560~exp=1656631160~hmac=c117a37a5d5dcb6f4cb0f04055b8beb8ab4d23e14d5308d89f3c0ee610de02e2">
