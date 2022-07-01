@@ -22,7 +22,7 @@ https://gteasera.github.io/marketplace/
 
   
 <h2><b> Versions of fuctionality: </b></h2>
-<h1><b>Site Version</b> - 0.0.1<h1>
+<b>Site Version</b> - 0.0.1
 <br><b>Dark-Mode</b> - 0.0.1 <br>
 <b>Light-Mode</b> - 0.0.1 <br>
 <b>Registration</b> - 0.0.0 <br>
