@@ -1,5 +1,5 @@
 # Marketplace
-This site was made for me and my friends like shop for our items, etc. https://discord.gg/mH4JUgqmDB
+This site was made for me and my friends like shop for our items, etc. https://discord.gg/x6D27kkrvH
 
 <h2>GitHub pages (work uncorrectly)</h2>
 https://gteasera.github.io/marketplace/
