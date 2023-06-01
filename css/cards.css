@@ -17,7 +17,6 @@
   
   * {
     margin: 0;
-    font: inherit;
   }
   
   html {
@@ -25,7 +24,6 @@
   }
   
   body {
-    font-family: system-ui, sans-serif;
     min-height: 100vh;
   /*   display: grid;
     place-items: center; */
