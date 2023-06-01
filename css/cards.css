@@ -1,35 +1,6 @@
-:root {
-    --clr-primary: #7597de;
-    --clr-secondary: crimson;
-    
-    --bg-primary: #2b1055;
-    --bg-secondary: #26062e;
-    
-    --text-primary: #fff;
-    --text-secondary: #ccc;
-  }
+
+
   
-  *,
-  *::before,
-  *::after {
-    box-sizing: border-box;
-  }
-  
-  * {
-    margin: 0;
-  }
-  
-  html {
-    color-scheme: dark;
-  }
-  
-  body {
-    min-height: 100vh;
-  /*   display: grid;
-    place-items: center; */
-    background-color: var(--bg-primary);
-    color: var(--text-secondary);
-  }
   
   ul:where([role="list"]) {
     list-style: none;
