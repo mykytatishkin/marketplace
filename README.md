@@ -3,5 +3,5 @@ This site was made for me and my [friends](https://discord.gg/x6D27kkrvH) like s
 [GitHub pages](https://mykytatishkin.github.io/marketplace/)
 
 
-<p><i> In this version we have a hull of site and a bit of main functionality</i></p>
+<p><i> This is a hull of site.</i></p>
  
